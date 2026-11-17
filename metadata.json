@@ -1,0 +1,6 @@
+{
+  "name": "Minimi Search Agent",
+  "description": "State-of-the-art web search chat agent with temporal memory, delta detection, and verified real-time sources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
